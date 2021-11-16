@@ -178,8 +178,6 @@ body {
 
 .heroy-section {
   background: #2f303a;
-
-  outline: 2px solid tomato;
 }
 
 .heroy-container {
@@ -197,8 +195,6 @@ body {
   text-transform: uppercase;
   color: var(--heder-text-color);
   letter-spacing: var(--third-letter-spacing);
-
-  outline: 2px solid tomato;
 }
 
 .button {
@@ -223,7 +219,6 @@ body {
 .button:hover,
 .button:focus {
   color: var(--main-btn-color);
-  background-color: tomato;
 }
 
 /* features section */
@@ -252,8 +247,6 @@ body {
   letter-spacing: var(--second-letter-spacing);
   color: var(--main-text-color);
   margin-bottom: 10px;
-
-  outline: 2px solid tomato;
 }
 
 .features-list-text {
@@ -261,8 +254,6 @@ body {
   line-height: 1.71;
   letter-spacing: var(--second-letter-spacing);
   color: var(--second-text-color);
-
-  outline: 2px solid tomato;
 }
 
 /* our work section- */
@@ -279,8 +270,6 @@ body {
   color: var(--main-text-color);
   margin-bottom: 50px;
   text-align: center;
-
-  outline: 2px solid tomato;
 }
 
 .list-work {
@@ -317,7 +306,6 @@ body {
   color: var(--main-text-color);
   margin-bottom: 50px;
   text-align: center;
-  outline: 2px solid tomato;
 }
 
 .list-team {
@@ -333,8 +321,6 @@ body {
   background-color: #ffffff;
   width: calc(100% / 4 - 30px);
   text-align: center;
-
-  outline: 2px solid tomato;
 }
 
 .our-team-name {
@@ -520,7 +506,6 @@ body {
 
   text-align: left;
 }
-
 .portfolio-content {
   padding: 20px 24px;
 }
