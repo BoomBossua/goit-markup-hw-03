@@ -106,8 +106,8 @@ body {
   line-height: 1.14;
   letter-spacing: var(--one-letter-spacing);
   color: var(--main-text-color);
-  margin-top: 32px;
-  margin-bottom: 32px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .header-link-studio {
@@ -132,8 +132,8 @@ body {
 }
 
 .header-cont-link {
-  margin-top: 32px;
-  margin-bottom: 32px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .header-mail-color {
