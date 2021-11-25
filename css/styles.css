@@ -431,6 +431,7 @@ body {
 
 .portfolio-section {
   padding-top: 95px;
+  padding-bottom: 94px;
 }
 
 .list-btn {
@@ -477,8 +478,6 @@ body {
   flex-wrap: wrap;
   margin-left: 0;
   margin-top: 0px;
-
-  padding-bottom: 94px;
 }
 
 .portfolio-item {
@@ -496,6 +495,10 @@ body {
 }
 .portfolio-item:nth-child(3n + 1) {
   margin-left: 0px;
+}
+
+.portfolio-link {
+  text-decoration: none;
 }
 
 .portfolio-title {
